@@ -4,21 +4,20 @@
 (                                                                     )
 (    Drawing          : CD31_Pin_Shape.dra                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Thu Aug 23 14:08:42 2018                      )
+(    Date/Time        : Thu Aug 23 14:09:00 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Create Symbol of type: PACKAGE
+Create Symbol of type: SHAPE
     Directory = D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm
-    Name      = cd31_pin_shape.psm
+    Name      = cd31_pin_shape.ssm
     User      = ShellAlbert
     Machine   = DESKTOP-K7IKMPR
 
 
 Create symbol started.
  
- ERROR(SPMHCS-1): Symbol is missing a refdes. 
 
-ERROR(SPMHA1-291): Create symbol has been aborted.
+Create symbol completed.
 

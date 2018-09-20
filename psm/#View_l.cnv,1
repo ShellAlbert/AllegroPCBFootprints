@@ -1,0 +1,31 @@
+# This is an auto-generated Layer Conversion File which should be used for
+# importing DXF layer data with the sole aim of viewing the data on a layer
+# by layer basis.
+
+#CLASS!         SUBCLASS!                  DXF_LAYER!
+
+BOARD GEOMETRY!
+               0!                  DBLAYERS!
+               1!                  PART_ATTR!
+               2!                  LABEL_INFO!
+               3!                  LABEL_ATTRIBUTE!
+               4!                  PART_NAME_01!
+               5!                  PART_TYPE_01!
+               6!                  PART_INFO!
+               7!                  PART_PTS!
+               8!                  SYM_NAME!
+               9!                  SYM_PART_TYPE_01!
+               10!                  SYM_PART_NAME_01!
+               11!                  SYM_TERMINAL!
+               12!                  PKG_INFO!
+               13!                  PART_TOP_2DLINE_01!
+               14!                  DRIL_PLTE_THRU_01!
+               15!                  DRIL_PLTE_THRU_02!
+               16!                  PADS_INNER!
+               17!                  PADS_BOT!
+               18!                  PADS_TOP!
+               19!                  PCB_PARAMS!
+               20!                  DRIL_SYMBOL!
+               21!                  0!
+
+#END

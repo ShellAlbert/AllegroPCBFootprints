@@ -2,19 +2,19 @@
 (                                                                     )
 (    Refresh Padstack                                                 )
 (                                                                     )
-(    Drawing          : OSC-SMD-3225-4P.dra                           )
+(    Drawing          : OSC_SMD_7050.dra                              )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Sat May 12 09:54:01 2018                      )
+(    Date/Time        : Thu Aug 23 14:46:10 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Sat May 12 09:54:01 2018				Page     1
+Thu Aug 23 14:46:10 2018				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design  = 'OSC-SMD-3225-4P.dra'
+Input design  = 'D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm/OSC_SMD_7050.dra'
 Output design = ''
 Reset symbol text and size locations   = 'NO'
 
@@ -28,6 +28,7 @@ PSMPATH =  .
            D:/MySoftSet/CadenceSPB172/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
            D:/MySoftSet/CadenceSPB172/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
            D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm/ 
+           D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/hole/ 
 
 PADPATH =  . 
            symbols 
@@ -38,16 +39,13 @@ PADPATH =  .
            D:/MySoftSet/CadenceSPB172/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
            D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/pad/ 
            D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/via/ 
+           D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/hole/ 
 
 
 ------ Pad Stack Refresh Messages ------
 
-'SMD1D4_1D2'  pad stack refresh starting.
+'SMD2D0_1D8'  pad stack refresh starting.
 
-     'SMD1D4_1D2'  pad stack refreshed successfully.
-     
-'SMD0D65_1D35'  pad stack refresh starting.
-
-     'SMD0D65_1D35'  pad stack refreshed successfully.
+     'SMD2D0_1D8'  pad stack refreshed successfully.
      
 Completed refreshing all pad stacks successfully.

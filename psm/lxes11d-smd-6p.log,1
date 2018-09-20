@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : LXES11D-SMD-6P.dra                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Thu Aug 23 09:57:41 2018                      )
+(    Date/Time        : Thu Aug 23 09:57:58 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,7 +18,6 @@ Create Symbol of type: PACKAGE
 
 Create symbol started.
  
- ERROR(SPMHCS-1): Symbol is missing a refdes. 
 
-ERROR(SPMHA1-291): Create symbol has been aborted.
+Create symbol completed.
 

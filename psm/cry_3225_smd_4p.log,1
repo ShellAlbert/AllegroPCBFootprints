@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : CRY_3225_SMD_4P.dra                           )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Fri Aug 24 09:31:22 2018                      )
+(    Date/Time        : Mon Aug 27 13:03:38 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,7 +18,6 @@ Create Symbol of type: PACKAGE
 
 Create symbol started.
  
- ERROR(SPMHCS-1): Symbol is missing a refdes. 
 
-ERROR(SPMHA1-291): Create symbol has been aborted.
+Create symbol completed.
 

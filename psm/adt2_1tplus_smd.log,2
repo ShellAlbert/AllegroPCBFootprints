@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ADT2_1TPlus_SMD.dra                           )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Sep 01 09:50:39 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm
+    Name      = adt2_1tplus_smd.psm
+    User      = ShellAlbert
+    Machine   = DESKTOP-K7IKMPR
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

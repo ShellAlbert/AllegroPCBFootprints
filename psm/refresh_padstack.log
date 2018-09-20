@@ -2,19 +2,19 @@
 (                                                                     )
 (    Refresh Padstack                                                 )
 (                                                                     )
-(    Drawing          : OSC_SMD_7050.dra                              )
+(    Drawing          : CD31-SMD-2P.dra                               )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Thu Aug 23 14:57:41 2018                      )
+(    Date/Time        : Sat Sep 01 18:10:33 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Aug 23 14:57:41 2018				Page     1
+Sat Sep 01 18:10:33 2018				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design  = 'D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm/OSC_SMD_7050.dra'
+Input design  = 'D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm/CD31-SMD-2P.dra'
 Output design = ''
 Reset symbol text and size locations   = 'NO'
 
@@ -44,8 +44,8 @@ PADPATH =  .
 
 ------ Pad Stack Refresh Messages ------
 
-'SMD2D0_1D8'  pad stack refresh starting.
+'CD31_PIN'  pad stack refresh starting.
 
-     'SMD2D0_1D8'  pad stack refreshed successfully.
+     'CD31_PIN'  pad stack refreshed successfully.
      
 Completed refreshing all pad stacks successfully.
