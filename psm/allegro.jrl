@@ -1,18 +1,85 @@
-\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed Sep 12 17:24:58 2018
-\t (00:00:01)         Host=DESKTOP-K7IKMPR User=ShellAlbert Pid=13048 CPUs=4
-\t (00:00:01) CmdLine= D:\MySoftSet\CadenceSPB172\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm/SMD-5x2-2D54mm.dra
-\i (00:00:03) trapsize 587
-\i (00:00:04) trapsize 602
-\i (00:00:04) trapsize 647
-\i (00:00:04) generaledit 
-\i (00:00:18) opencd D:/MyWork/wuhuan/LizardDemodulation/LizardDemodulationNewRev9.brd 
-\t (00:00:18) Opening existing design...
-\i (00:00:18) trapsize 31402
-\i (00:00:19) trapsize 32183
-\i (00:00:19) trapsize 34722
-\t (00:00:19)     Journal end - Wed Sep 12 17:25:16 2018
+\t (02:52:11) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (02:52:11)     Journal start - Wed Jun 21 10:55:46 2023
+\t (02:52:11)         Host=ET68OKD User=Administrator Pid=13628 CPUs=8
+\t (02:52:11) CmdLine= C:\Cadence\Cadence_SPB_17.4-2019\tools\bin\allegro.exe
+\t (02:52:11) 
+\d (02:52:11) Design opened: D:/Work/GitHub/AllegroPCB/psm/DIP-17x2-2D54mm.dra
+\i (02:52:11) trapsize 2686
+\i (02:52:12) zoom in 1 
+\i (02:52:12) setwindow pcb
+\i (02:52:12) zoom in 19.7050 -4.3060
+\i (02:52:12) trapsize 1343
+\i (02:52:16) replace padstack 
+\i (02:52:17) pick grid 15.6756 0.2608
+\t (02:52:17) last pick:  15.7000 0.3000
+\i (02:52:18) setwindow form.mini
+\i (02:52:18) FORM mini newname_browse  
+\t (02:52:22) No valid name selected.
+\t (02:52:26) No valid name selected.
+\i (02:52:49) fillin "menu_ok"
+\i (02:52:55) setwindow pcb
+\i (02:52:55) prmed 
+\i (02:52:56) setwindow form.prmedit
+\i (02:52:56) FORM prmedit design  
+\i (02:52:57) FORM prmedit text  
+\i (02:52:58) FORM prmedit shapes  
+\i (02:52:58) FORM prmedit flow_planning  
+\i (02:52:59) FORM prmedit route  
+\i (02:53:00) FORM prmedit display  
+\i (02:53:03) setwindow pcb
+\i (02:53:03) enved 
+\i (02:53:04) setwindow form.prfedit
+\i (02:53:04) FORM prfedit treelist  My_favorites 
+\i (02:53:08) FORM prfedit treelist  Paths 
+\i (02:53:10) FORM prfedit treelist  Library Paths 
+\i (02:53:12) FORM prfedit padpath  
+\i (02:53:23) fillin "D:/Privacy/FootprintLib/psm"
+\i (02:53:26) FORM prfedit done  
+\i (02:53:31) setwindow pcb
+\i (02:53:31) replace padstack 
+\i (02:53:32) pick grid 25.7492 0.2876
+\t (02:53:32) last pick:  25.7000 0.3000
+\i (02:53:33) setwindow form.mini
+\i (02:53:33) FORM mini newname_browse  
+\t (02:53:37) No valid name selected.
+\i (02:53:39) fillin "Via40r55"
+\w (02:53:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (02:53:39) ERROR(SPMHDB-274): Unable to load flash symbol 75 (Check PSMPATH setting for this symbol).
+\e (02:53:39) Pad VIA40R55 not in database or library.
+\i (02:53:42) FORM mini newname_browse  
+\t (02:53:46) No valid name selected.
+\i (02:53:48) fillin "Via40r55"
+\w (02:53:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (02:53:48) ERROR(SPMHDB-274): Unable to load flash symbol 75 (Check PSMPATH setting for this symbol).
+\e (02:53:48) Pad VIA40R55 not in database or library.
+\i (02:54:05) setwindow pcb
+\i (02:54:05) enved 
+\i (02:54:09) setwindow form.prfedit
+\i (02:54:09) FORM prfedit treelist  Paths 
+\i (02:54:11) FORM prfedit treelist  Library Paths 
+\i (02:54:15) FORM prfedit padpath  
+\i (02:54:23) FORM prfedit psmpath  
+\i (02:54:29) FORM prfedit done  
+\i (02:54:32) setwindow form.mini
+\i (02:54:32) FORM mini newname_browse  
+\t (02:54:37) No valid name selected.
+\t (02:54:43) No valid name selected.
+\i (02:54:47) fillin "menu_ok"
+\i (02:54:48) setwindow pcb
+\i (02:54:48) prepopup 22.9286 6.6542
+\i (02:54:49) cancel 
+\i (02:54:52) replace padstack 
+\i (02:54:53) pick grid 20.4035 0.3414
+\t (02:54:53) last pick:  20.4000 0.3000
+\i (02:54:54) setwindow form.mini
+\i (02:54:54) FORM mini newname_browse  
+\t (02:54:58) No valid name selected.
+\i (02:54:59) fillin "menu_cancel"
+\i (02:55:04) setwindow pcb
+\i (02:55:04) opencd D:/Work/GitHub/PhotonDetector/Module_Design/2-FPGA/PCB/XS6-6.brd 
+\t (02:55:05) Opening existing design...
+\i (02:55:05) trapsize 451
+\i (02:55:05) trapsize 463
+\i (02:55:05) trapsize 425
+\i (02:55:05) trapsize 425
+\t (02:55:05)     Journal end - Wed Jun 21 10:58:40 2023

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ind-smd-l11d5-w10d0-p10d4.dra                 )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Wed Jun 14 11:14:49 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Work/GitHub/AllegroPCB/psm
+    Name      = ind-smd-l11d5-w10d0-p10d4.psm
+    User      = Administrator
+    Machine   = TIANTIAN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

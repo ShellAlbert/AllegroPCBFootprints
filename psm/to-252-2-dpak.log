@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TO-252-2-DPAK.dra                             )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Wed Jun 14 09:06:32 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Work/GitHub/AllegroPCB/psm
+    Name      = to-252-2-dpak.psm
+    User      = Administrator
+    Machine   = TIANTIAN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
