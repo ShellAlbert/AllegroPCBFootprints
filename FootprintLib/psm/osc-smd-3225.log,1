@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : OSC-SMD-3225.dra                              )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Wed Sep 21 10:29:36 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Privacy/FootprintLib/psm
+    Name      = osc-smd-3225.psm
+    User      = Administrator
+    Machine   = THINKPAD1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

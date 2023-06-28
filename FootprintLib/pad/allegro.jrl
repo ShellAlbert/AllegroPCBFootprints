@@ -1,0 +1,22 @@
+\t (00:00:01) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sat Nov 19 20:11:54 2022
+\t (00:00:01)         Host=THINKPAD1 User=Administrator Pid=16480 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.4-2019\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) placementedit 
+\i (00:00:06) open 
+\e (00:00:06) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:07) fillin no 
+\i (00:00:19) fillin "D:/Privacy/FootprintLib/psm/SOD-323.dra"
+\i (00:00:19) cd "D:/Privacy/FootprintLib/psm"
+\i (00:00:19) trapsize 689
+\i (00:00:19) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\t (00:00:19) Opening existing design...
+\i (00:00:19) trapsize 422
+\i (00:00:19) trapsize 433
+\i (00:00:19) trapsize 422
+\i (00:00:19) trapsize 695
+\t (00:00:19)     Journal end - Sat Nov 19 20:12:12 2022

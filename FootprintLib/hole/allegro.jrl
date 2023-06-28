@@ -1,0 +1,50 @@
+\t (02:23:51) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (02:23:51)     Journal start - Mon Aug 27 10:48:14 2018
+\t (02:23:51)         Host=DESKTOP-K7IKMPR User=ShellAlbert Pid=19440 CPUs=4
+\t (02:23:51) CmdLine= D:\MySoftSet\CadenceSPB172\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (02:23:51) 
+\d (02:23:51) Design opened: D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/hole/mhole_5d0_3d0.dra
+\i (02:23:52) generaledit 
+\i (02:23:52) zoom out 1 
+\i (02:23:52) setwindow pcb
+\i (02:23:52) zoom out 3.3299 0.8021
+\i (02:23:52) trapsize 249
+\i (02:23:52) zoom out 1 
+\i (02:23:52) setwindow pcb
+\i (02:23:52) zoom out 3.3646 0.7821
+\i (02:23:52) trapsize 498
+\i (02:23:52) zoom out 1 
+\i (02:23:52) setwindow pcb
+\i (02:23:52) zoom out 3.3846 0.7821
+\i (02:23:52) trapsize 996
+\i (02:23:53) zoom in 1 
+\i (02:23:53) setwindow pcb
+\i (02:23:53) zoom in 0.7556 0.2445
+\i (02:23:53) trapsize 498
+\i (02:23:53) zoom in 1 
+\i (02:23:53) setwindow pcb
+\i (02:23:53) zoom in 0.6859 0.1150
+\i (02:23:53) trapsize 249
+\i (02:23:54) zoom out 1 
+\i (02:23:54) setwindow pcb
+\i (02:23:54) zoom out 2.3588 -0.2633
+\i (02:23:54) trapsize 498
+\i (02:23:56) prmed 
+\i (02:23:58) setwindow form.prmedit
+\i (02:23:58) FORM prmedit design  
+\i (02:24:00) FORM prmedit display  
+\i (02:24:03) FORM prmedit done  
+\i (02:24:03) setwindow pcb
+\i (02:24:03) generaledit 
+\i (02:24:06) add line 
+\i (02:24:09) pick 0 0 
+\t (02:24:09) last pick:  0.0000 0.0000
+\i (02:24:11) prepopup 4.9380 2.2958
+\i (02:24:12) cancel 
+\i (02:24:13) generaledit 
+\i (02:24:16) opencd D:/MyWork/wuhuan/LizardDemodulation/LizardDemodulation.brd 
+\t (02:24:16) Opening existing design...
+\i (02:24:16) trapsize 633
+\i (02:24:17) trapsize 645
+\i (02:24:17) trapsize 646
+\t (02:24:17)     Journal end - Mon Aug 27 10:48:40 2018

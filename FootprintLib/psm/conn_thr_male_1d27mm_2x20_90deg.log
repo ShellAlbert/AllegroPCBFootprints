@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN_THR_MALE_1D27MM_2X20_90DEG.dra           )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Mon Sep 26 16:31:19 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Privacy/FootprintLib/psm
+    Name      = conn_thr_male_1d27mm_2x20_90deg.psm
+    User      = Administrator
+    Machine   = THINKPAD1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

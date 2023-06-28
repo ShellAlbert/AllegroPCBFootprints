@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SC-70-5.dra                                   )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Sat Nov 19 14:30:41 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Privacy/FootprintLib/psm
+    Name      = sc-70-5.psm
+    User      = Administrator
+    Machine   = THINKPAD1
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

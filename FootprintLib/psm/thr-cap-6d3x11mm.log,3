@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : THR-CAP-6D3x11mm.dra                          )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Wed Nov 23 09:45:12 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Privacy/FootprintLib/psm
+    Name      = thr-cap-6d3x11mm.psm
+    User      = Administrator
+    Machine   = THINKPAD1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

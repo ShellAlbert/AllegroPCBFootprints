@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SW_3X6X2D5MM_2P.dra                           )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Mon Sep 26 15:12:13 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Privacy/FootprintLib/psm
+    Name      = sw_3x6x2d5mm_2p.psm
+    User      = Administrator
+    Machine   = THINKPAD1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

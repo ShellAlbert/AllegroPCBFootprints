@@ -1,0 +1,109 @@
+\t (00:34:07) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (00:34:07)     Journal start - Mon Sep 26 08:41:28 2022
+\t (00:34:07)         Host=THINKPAD1 User=Administrator Pid=12080 CPUs=8
+\t (00:34:07) CmdLine= C:\Cadence\Cadence_SPB_17.4-2019\tools\bin\allegro.exe
+\t (00:34:07) 
+\t (00:34:07) Starting new design...
+\i (00:34:07) trapsize 32446
+\i (00:34:07) trapsize 33289
+\i (00:34:07) trapsize 32446
+\i (00:34:07) trapsize 39904
+\i (00:34:07) trapsize 63939
+\i (00:34:07) trapsize 63939
+\i (00:34:10) define grid 
+\t (00:34:10) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:34:13) setwindow form.grid
+\i (00:34:13) FORM grid non_etch non_etch_x_grids 0.001 
+\i (00:34:14) FORM grid non_etch non_etch_y_grids 0.001 
+\i (00:34:16) FORM grid all_etch all_etch_x_grids 0.001 
+\i (00:34:16) FORM grid all_etch all_etch_y_grids 0.001 
+\i (00:34:20) FORM grid all_etch all_etch_x_offset 0.0000 
+\i (00:34:20) FORM grid all_etch all_etch_y_offset 0.0000 
+\i (00:34:20) FORM grid top subclass_x_grids 0.0010 
+\i (00:34:20) FORM grid top subclass_x_grids 0.0010 
+\i (00:34:20) FORM grid done  
+\i (00:34:24) setwindow pcb
+\i (00:34:24) zoom in 1 
+\i (00:34:24) setwindow pcb
+\i (00:34:24) zoom in -27.6215 -65.9847
+\i (00:34:24) trapsize 31969
+\i (00:34:24) zoom in 1 
+\i (00:34:24) setwindow pcb
+\i (00:34:24) zoom in -27.6214 -65.9846
+\i (00:34:24) trapsize 15985
+\i (00:34:25) add pin 
+\i (00:34:26) setwindow form.mini
+\i (00:34:26) FORM mini pad_browse  
+\t (00:34:31) No valid name selected.
+\i (00:43:39) fillin "menu_ok"
+\i (00:43:40) FORM mini pad_browse  
+\i (00:43:44) fillin "menu_cancel"
+\i (00:43:48) setwindow pcb
+\i (00:43:48) enved 
+\i (00:43:48) setwindow form.prfedit
+\i (00:43:48) FORM prfedit treelist  My_favorites 
+\i (00:43:51) FORM prfedit treelist  Paths 
+\i (00:43:52) FORM prfedit treelist  Library Paths 
+\i (00:43:55) FORM prfedit padpath  
+\i (00:44:03) fillin "D:/Privacy/FootprintLib/mechanical"
+\i (00:44:06) FORM prfedit psmpath  
+\i (00:44:10) fillin "D:/Privacy/FootprintLib/mechanical"
+\i (00:44:14) FORM prfedit done  
+\i (00:44:16) setwindow pcb
+\i (00:44:16) save 
+\t (00:44:16) Exiting from Add Pin.
+\t (00:44:16) Symbol 'm_cir_3d0.bsm' created.
+\i (00:44:18) add pin 
+\i (00:44:18) setwindow form.mini
+\i (00:44:18) FORM mini pad_browse  
+\t (00:44:24) No valid name selected.
+\t (00:44:28) No valid name selected.
+\i (00:44:30) fillin "Thr_Cir_3D0_Np"
+\t (00:44:30) Using 'THR_CIR_3D0_NP.pad'.
+\i (00:44:31) setwindow pcb
+\i (00:44:31) zoom in 1 
+\i (00:44:31) setwindow pcb
+\i (00:44:31) zoom in -2.6853 5.3070
+\i (00:44:31) trapsize 7992
+\i (00:44:31) zoom in 1 
+\i (00:44:31) setwindow pcb
+\i (00:44:31) zoom in -2.5254 4.6676
+\i (00:44:31) trapsize 3996
+\i (00:44:31) zoom in 1 
+\i (00:44:31) setwindow pcb
+\i (00:44:31) zoom in -2.3655 4.2681
+\i (00:44:31) trapsize 1998
+\i (00:44:32) zoom in 1 
+\i (00:44:32) setwindow pcb
+\i (00:44:32) zoom in 0.8714 -0.0878
+\i (00:44:32) trapsize 999
+\i (00:44:35) pick 0 0 
+\t (00:44:35) last pick:  0.0000 0.0000
+\t (00:44:35) Using 'THR_CIR_3D0_NP.pad'.
+\i (00:44:35) done 
+\t (00:44:35) Exiting from Add Pin.
+\i (00:44:37) zoom out 1 
+\i (00:44:37) setwindow pcb
+\i (00:44:37) zoom out 1.4509 1.5907
+\i (00:44:37) trapsize 1998
+\i (00:44:37) zoom in 1 
+\i (00:44:37) setwindow pcb
+\i (00:44:37) zoom in -2.7052 -0.1277
+\i (00:44:37) trapsize 999
+\i (00:44:37) zoom in 1 
+\i (00:44:37) setwindow pcb
+\i (00:44:37) zoom in -2.7251 -0.1277
+\i (00:44:37) trapsize 500
+\i (00:44:39) save 
+\i (00:44:40) fillin yes 
+\t (00:44:40) Symbol 'm_cir_3d0.bsm' created.
+\i (00:44:47) opencd D:/Work/SPAPD/PCB/SAPD_RA1-9.brd 
+\t (00:44:48) Opening existing design...
+\i (00:44:48) trapsize 2837
+\i (00:44:48) trapsize 2928
+\i (00:44:48) trapsize 2307
+\i (00:44:48) setwindow form.mini
+\i (00:44:48) FORM mini tree  'Mechanical symbols' 
+\i (00:44:48) setwindow pcb
+\i (00:44:48) trapsize 2307
+\t (00:44:48)     Journal end - Mon Sep 26 08:52:09 2022

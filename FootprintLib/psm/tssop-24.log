@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TSSOP-24.dra                                  )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Sep 01 08:27:50 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm
+    Name      = tssop-24.psm
+    User      = ShellAlbert
+    Machine   = DESKTOP-K7IKMPR
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

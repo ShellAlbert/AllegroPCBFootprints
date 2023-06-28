@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PCBMarker.dra                                 )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Sep 03 09:22:37 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm
+    Name      = pcbmarker.psm
+    User      = ShellAlbert
+    Machine   = DESKTOP-K7IKMPR
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

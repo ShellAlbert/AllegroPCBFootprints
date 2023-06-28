@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LED0805.dra                                   )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Sep 01 07:06:25 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/MyWork/wuhuan/LaserSpy/LaserSpyBoardRevA/AllegroPCB/psm
+    Name      = led0805.psm
+    User      = ShellAlbert
+    Machine   = DESKTOP-K7IKMPR
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
