@@ -1,0 +1,48 @@
+\t (03:08:45) allegro 22.1 P001 Windows SPB 64-bit Edition
+\t (03:08:45)     Journal start - Wed Jul  3 17:01:13 2024
+\t (03:08:45)         Host=DESKTOP-R1EC6M9 User=SNIPER Pid=13200 CPUs=12
+\t (03:08:45) CmdLine= c:\cadence\spb_22.1\tools\bin\allegro.exe F:\MyTemporary\Github\GLPP2024\3-IRCAM\PCB\IRCAM-11.brd
+\t (03:08:45) 
+\d (03:08:45) Design opened: F:/MyTemporary/Github/AllegroPCBFootprints/mechanical/M_CIR_2D0.dra
+\i (03:08:45) zoom out 1 
+\i (03:08:45) setwindow pcb
+\i (03:08:45) zoom out 0.4835 -0.4452
+\i (03:08:45) trapsize 633
+\i (03:08:46) zoom in 1 
+\i (03:08:46) setwindow pcb
+\i (03:08:46) zoom in 1.3952 -0.1793
+\i (03:08:46) trapsize 317
+\i (03:08:49) save_as 
+\i (03:08:53) fillin "menu_cancel"
+\i (03:08:55) move 
+\t (03:08:55) Select element(s) to move.
+\i (03:09:01) prepopup 1.6865 0.2386
+\i (03:09:02) done 
+\i (03:10:39) save_as 
+\i (03:10:44) fillin "M_CIR_1D8.dra"
+\t (03:10:45) Symbol 'm_cir_1d8.bsm' created.
+\i (03:10:50) replace padstack 
+\i (03:10:50) pick grid 0.4646 0.5551
+\t (03:10:50) last pick:  0.4650 0.5550
+\i (03:10:51) setwindow form.mini
+\i (03:10:51) FORM mini newname_browse  
+\t (03:10:55) No valid name selected.
+\i (03:10:56) fillin "Thr_Cir_1D8_Np"
+\i (03:10:57) FORM mini replace  
+\t (03:10:57) Done, updated padstack.
+\t (03:10:57) 1 out of 1 old padstack THR_CIR_2D0_NP were replaced with new padstack THR_CIR_1D8_NP.
+\i (03:10:58) setwindow pcb
+\i (03:10:58) prepopup 2.6488 0.0170
+\i (03:10:59) done 
+\t (03:10:59) Performing DRC...
+\t (03:10:59) No DRC errors detected.
+\i (03:11:00) save 
+\i (03:11:00) fillin yes 
+\t (03:11:01) Symbol 'm_cir_1d8.bsm' created.
+\i (03:11:04) opencd F:/MyTemporary/Github/GLPP2024/3-IRCAM/PCB/IRCAM-11.brd 
+\t (03:11:04) Opening existing design...
+\i (03:11:04) trapsize 2627
+\i (03:11:05) trapsize 2705
+\i (03:11:05) trapsize 2155
+\i (03:11:05) trapsize 2155
+\t (03:11:05)     Journal end - Wed Jul  3 17:03:34 2024

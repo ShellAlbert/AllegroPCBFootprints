@@ -1,0 +1,57 @@
+\t (00:42:35) allegro 22.1 P001 Windows SPB 64-bit Edition
+\t (00:42:35)     Journal start - Tue Jun 18 17:51:24 2024
+\t (00:42:35)         Host=DESKTOP-R1EC6M9 User=SNIPER Pid=8328 CPUs=12
+\t (00:42:35) CmdLine= c:\cadence\spb_22.1\tools\bin\allegro.exe F:\MyTemporary\Github\GLPP2024\2-IRCAM\PCB\IRCAM.brd
+\t (00:42:35) 
+\d (00:42:35) Design opened: F:/MyTemporary/Github/AllegroPCBFootprints/mechanical/M_CIR_3D0.dra
+\i (00:42:35) zoom in 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom in 0.5088 -0.5402
+\i (00:42:35) trapsize 317
+\i (00:42:36) zoom out 1 
+\i (00:42:36) setwindow pcb
+\i (00:42:36) zoom out 0.3949 0.4855
+\i (00:42:36) trapsize 633
+\i (00:43:07) new 
+\i (00:43:11) newdrawfillin "menu_cancel"
+\i (00:43:13) save_as 
+\i (00:43:16) fillin "M_CIR_2D0.dra"
+\t (00:43:17) Symbol 'm_cir_2d0.bsm' created.
+\i (00:43:18) delete 
+\i (00:43:24) pick grid -0.2762 0.3588
+\t (00:43:24) last pick:  -0.2760 0.3590
+\t (00:43:24) Mechanical Pin "Thr_Cir_3D0_Np"
+\i (00:43:24) pick grid dbl -0.2762 0.3588
+\t (00:43:24) last pick:  -0.2760 0.3590
+\i (00:43:24) prepopup -0.2762 0.3588
+\i (00:43:25) done 
+\i (00:45:54) add pin 
+\t (00:45:54) Using 'THR_CIR_3D0_NP.pad'.
+\i (00:45:56) setwindow form.mini
+\i (00:45:56) FORM mini pad_browse  
+\t (00:46:01) No valid name selected.
+\i (00:46:14) fillin "Thr_Cir_2D0_Np"
+\t (00:46:14) Using 'THR_CIR_2D0_NP.pad'.
+\i (00:46:18) setwindow pcb
+\i (00:46:18) pick 0 0 
+\t (00:46:18) last pick:  0.0000 0.0000
+\t (00:46:18) Using 'THR_CIR_2D0_NP.pad'.
+\i (00:46:18) done 
+\t (00:46:18) Exiting from Add Pin.
+\i (00:46:19) zoom in 1 
+\i (00:46:19) setwindow pcb
+\i (00:46:19) zoom in 0.0657 0.0423
+\i (00:46:19) trapsize 317
+\i (00:46:20) save 
+\i (00:46:21) fillin yes 
+\t (00:46:22) Symbol 'm_cir_2d0.bsm' created.
+\i (00:46:23) save 
+\i (00:46:24) fillin yes 
+\t (00:46:25) Symbol 'm_cir_2d0.bsm' created.
+\i (00:46:29) opencd F:/MyTemporary/Github/GLPP2024/2-IRCAM/PCB/IRCAM.brd 
+\t (00:46:29) Opening existing design...
+\i (00:46:29) trapsize 7488
+\i (00:46:29) trapsize 7712
+\i (00:46:29) trapsize 5988
+\i (00:46:30) trapsize 5988
+\t (00:46:30)     Journal end - Tue Jun 18 17:55:19 2024
